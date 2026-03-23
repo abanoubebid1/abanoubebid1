@@ -22,7 +22,7 @@
 
 ### 💻 Languages
 
-`C++` `Python`
+`C++` `C#` `Python`
 
 ### 🔐 Cybersecurity
 
