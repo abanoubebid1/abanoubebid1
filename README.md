@@ -1,61 +1,49 @@
-<h1 align="center">Hi 👋, I'm Abanoub</h1>
-<h3 align="center">Cybersecurity Student | Future Penetration Tester 🔐</h3>
+<h1 align="center">Hi 👋, I'm Abanoub!</h1>
+<h3 align="center">🔐 Cybersecurity Student | Future Penetration Tester</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abanoubebid&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 IT Student & Cybersecurity Enthusiast
-- 🔐 Passionate about Ethical Hacking & Network Security
-- 📚 Currently Learning: C++, Java, Linux, Networking
-- 🧠 Interested in: Penetration Testing, Red Teaming, SOC
-- 🚀 Goal: Become a Professional Cybersecurity Engineer
+* 🔐 Cybersecurity Enthusiast
+* 🛡️ Interested in **Ethical Hacking & Penetration Testing**
+* 🌐 Strong foundation in **Networking & Linux**
+* 🧪 Practicing on **CTFs & real-world labs**
+* 📚 Currently learning **Web Security & Vulnerability Analysis**
+* 🎯 Goal: Become a **Professional Cybersecurity Engineer**
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming
-- C++
-- Java
-- Python (Basic)
+### 💻 Languages
+
+`C++` `Java` `Python (Basic)`
 
 ### 🔐 Cybersecurity
-- Networking Basics
-- Linux Basics
-- Penetration Testing (Beginner)
-- OWASP Top 10
 
-### ⚙️ Tools
-- Wireshark
-- Nmap
-- Burp Suite (Basic)
-- Metasploit (Learning)
+`Networking` `Linux` `OWASP Top 10` `Web Security`
 
----
+### 🧰 Tools
 
-## 📚 Currently Learning
+`Nmap` `Wireshark` `Burp Suite` `Metasploit`
 
-- Linux for Hackers 🐧
-- Network Security
-- Ethical Hacking
+### 🖥️ Environment
+
+`Kali Linux` `Linux`
 
 ---
 
 ## 🚀 Projects
 
-| Project | Description |
-|--------|------------|
-| 🔗 Stack & Queue | Data Structures Implementation in C++ |
-| 🔗 Linked List | Full Implementation with Operations |
-| 🔗 Banking System | Console App using C++ |
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: abanoubebid1@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/your-link-here/
+- 🔍 **Port Scanner**
+- 🔐 **Password Strength Checker**
+- 🛡️ **Mini Vulnerability Scanner**
+- 📦 **Data Structures in C++**
 
 ---
 
@@ -63,16 +51,26 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abanoubebid&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abanoubebid&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 Quote
+## 🌐 Connect with Me
 
-> "Security is not a product, but a process." 🔐
+<p align="center">
+  <a href="mailto:abanoubebid1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/abanoub-ebid-b2a04b230/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
+
+## 💡 Mindset
+
+> “Security is not a product, but a process.” 🔐
