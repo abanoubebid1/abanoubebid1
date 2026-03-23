@@ -22,7 +22,7 @@
 
 ### 💻 Languages
 
-`C++` `Java` `Python (Basic)`
+`C++` `Python`
 
 ### 🔐 Cybersecurity
 
@@ -73,4 +73,4 @@
 
 ## 💡 Mindset
 
-> “Security is not a product, but a process.” 🔐
+> "the quieter you become, the more you are able to hear" 🔐
