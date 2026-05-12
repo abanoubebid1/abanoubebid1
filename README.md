@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ahmed Hassan
+# Hi there 👋 I'm Abanoub Ebid 
 
 <div align="center">
 
@@ -69,8 +69,7 @@ current_focus = [
 
 ## 🏆 Certifications & Platforms
 
-- 🟥 TryHackMe — [Profile](https://tryhackme.com/p/0xAhmedSec)
-- ⬛ HackTheBox — [Profile](https://app.hackthebox.com/users/0xAhmedSec)
+- 🟥 TryHackMe — [Profile]([https://tryhackme.com/p/0xAhmedSec](https://tryhackme.com/p/bib0?tab=completed-rooms))
 - 📜 Currently pursuing: **OSCP** (Offensive Security)
 
 ---
@@ -78,11 +77,9 @@ current_focus = [
 ## 📫 Contact
 
 ```
-📧 Email   : 0xahmed@protonmail.com
-💼 LinkedIn: linkedin.com/in/ahmedhassan-sec
-🐦 Twitter : @0xAhmedSec
+📧 Email   : abanoubebid1@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/abanoub-ebid-b2a04b230/
 ```
-
 ---
 
 <div align="center">
