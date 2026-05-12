@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Abanoub Ebid 
+# Hi there 👋 I'm Abanoub Ebid
 
 <div align="center">
 
@@ -12,10 +12,13 @@
 
 ```bash
 $ whoami
-→ CS Student specializing in Cybersecurity
-→ Active CTF player on HackTheBox & TryHackMe
-→ Currently studying for OSCP certification
-→ Interested in Red Teaming & Bug Bounty Hunting
+→ Cybersecurity Student with a Programming Background
+→ Know C++, C#, Python, SQL, HTML, CSS, JavaScript
+→ Understand OOP & Data Structures (C++ / C#)
+→ Learning Web Application Attacks — currently: XSS
+→ Solving rooms on TryHackMe
+→ Using Kali Linux for hands-on practice
+→ Goal: Penetration Tester / Web Security Specialist
 ```
 
 ---
@@ -24,34 +27,25 @@ $ whoami
 
 ```python
 current_focus = [
-    "Privilege Escalation techniques",
-    "Active Directory attacks",
-    "Web Application Pentesting",
-    "Malware Analysis",
+    "XSS & Web Application Attacks",
+    "TryHackMe rooms & challenges",
+    "Kali Linux tools & workflow",
+    "Building security scripts with Python",
 ]
 ```
 
 ---
 
-## 🛠️ Tools & Skills
+## 🛠️ Skills & Tools
 
-| Category | Tools |
+| Category | Details |
 |---|---|
-| 🔴 Pentesting | Metasploit, Burp Suite, Nmap, Nikto |
-| 🌐 Web Security | OWASP Top 10, SQLMap, Gobuster |
-| 🖥️ OS | Kali Linux, Parrot OS, Windows Server |
-| 💻 Languages | Python, Bash, C, PowerShell |
-| 🔍 Forensics | Wireshark, Volatility, Autopsy |
-| ☁️ Other | Active Directory, VirtualBox, Docker |
-
----
-
-## 📌 Featured Projects
-
-- 🔍 **[recon-toolkit](https://github.com/0xAhmedSec/recon-toolkit)** — Automated reconnaissance framework for bug bounty & pentesting
-- 🚩 **[ctf-writeups](https://github.com/0xAhmedSec/ctf-writeups)** — Detailed writeups for HackTheBox, TryHackMe & CTF competitions
-- 🦠 **[malware-lab](https://github.com/0xAhmedSec/malware-lab)** — Static & dynamic malware analysis (educational purposes)
-- 🌐 **[web-vuln-scanner](https://github.com/0xAhmedSec/web-vuln-scanner)** — Custom OWASP Top 10 vulnerability scanner
+| 💻 Languages | C++, C#, Python, SQL |
+| 🌐 Frontend | HTML, CSS, JavaScript |
+| 🧩 CS Fundamentals | OOP, Data Structures |
+| 🖥️ OS | Linux, Kali Linux |
+| 🔐 Web Security | XSS, Web Application Security |
+| 🧪 Practice Platform | TryHackMe |
 
 ---
 
@@ -67,24 +61,26 @@ current_focus = [
 
 ---
 
-## 🏆 Certifications & Platforms
+## 🏆 Platforms
 
-- 🟥 TryHackMe — [Profile]([https://tryhackme.com/p/0xAhmedSec](https://tryhackme.com/p/bib0?tab=completed-rooms))
-- 📜 Currently pursuing: **OSCP** (Offensive Security)
+- 🟥 TryHackMe — [My Profile](https://tryhackme.com/p/bib0?tab=completed-rooms)
 
 ---
 
 ## 📫 Contact
 
-```
-📧 Email   : abanoubebid1@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/abanoub-ebid-b2a04b230/
-```
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-abanoubebid1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abanoubebid1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abanoub%20Ebid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abanoub-ebid-b2a04b230/)
+
+</div>
+
 ---
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=0xAhmedSec&color=00ff41&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=abanoubebid1&color=00ff41&style=flat-square)
 
 *"The quieter you become, the more you are able to hear."* 🎩
 
