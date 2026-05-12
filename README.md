@@ -59,9 +59,9 @@ current_focus = [
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xAhmedSec&show_icons=true&theme=github_dark&hide_border=true&icon_color=00FF41&title_color=00FF41)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xAhmedSec&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAhmedSec&layout=compact&theme=github_dark&hide_border=true&title_color=00FF41)
+![Streak](https://streak-stats.demolab.com?user=0xAhmedSec&theme=github-dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
 
 </div>
 
