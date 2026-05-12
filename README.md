@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Abanoub Ebid
+# Hi 👋 I'm Abanoub Ebid
 
 <div align="center">
 
