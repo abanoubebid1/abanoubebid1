@@ -1,77 +1,80 @@
-<h1 align="center">Abanoub Ebid</h1>
-<h3 align="center">🛡️ Junior Penetration Tester | Web Application Security</h3>
+<h1 align="center">Hi 👋, I'm Abanoub Ebid</h1>
+<h3 align="center">🛡️ Junior Penetration Tester | Web Application Security | Finding Vulnerabilities Before Attackers Do</h3>
 
 <p align="center">
-  Third-year student at EELU · DEPI trainee · Egypt 🇪🇬
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Application%20Pentesting-0e75b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Training-TryHackMe-212c42?style=flat-square&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=abanoubebid&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
+## 🧑‍💻 About Me
 
-## 👤 About Me
-
-I'm a cybersecurity student training to become a **Junior Penetration Tester**. I practice finding and safely exploiting vulnerabilities in lab environments, then documenting each finding with its impact and a clear fix.
-
-I'm looking for a **junior penetration testing or application security role** where I can learn from experienced teams and contribute from day one.
-
----
-
-## 🎯 Focus Areas
-
-| Area | What I Practice |
-|---|---|
-| 🌐 **Web Application Security** | OWASP Top 10, SQL Injection, XSS, IDOR, Broken Authentication, Broken Access Control |
-| 🔎 **Reconnaissance & Enumeration** | Port scanning, service enumeration, directory brute-forcing |
-| 🖥️ **Network Fundamentals** | TCP/IP, DNS, HTTP/HTTPS, common ports and protocols |
-| ⬆️ **Privilege Escalation** | Linux and Windows fundamentals |
-| 📝 **Reporting** | Documenting findings with severity, impact and remediation steps |
+* 🛡️ Aspiring **Penetration Tester** focused on **Web Application Security**
+* 🔍 Practicing **web vulnerability testing**, **network scanning** and **enumeration** in lab environments
+* 🌐 Hands-on with **OWASP Top 10** vulnerabilities — SQL Injection, XSS, IDOR, Broken Authentication & Access Control
+* 📚 Training through TryHackMe's **Jr Penetration Tester** and **Web Application Pentesting** paths, and the **Digital Egypt Pioneers Initiative (DEPI)**
+* 📝 Documenting every finding with its **severity, impact and fix**
+* 🎯 Open to **junior penetration testing / application security** roles — ready to learn fast and contribute from day one
 
 ---
 
-## 🧰 Toolkit
+## 🛠️ Tech Stack
 
-**Offensive & Analysis:** `Burp Suite` `Nmap` `Metasploit` `Gobuster` `ffuf` `Hydra` `Wireshark`
+### 🛡️ Security Tools
 
-**Platforms & OS:** `Kali Linux` `Linux` `Windows` `TryHackMe`
+`Burp Suite` `Nmap` `Metasploit` `Gobuster` `ffuf` `Hydra` `Wireshark`
 
-**Programming & Scripting:** `C#` `C++` `SQL`
+### 🕳️ Vulnerabilities
 
----
+`SQL Injection` `XSS` `IDOR` `Broken Authentication` `Broken Access Control` `OWASP Top 10`
 
-## 🔬 Methodology
+### 🔎 Reconnaissance & Enumeration
 
-```text
- 1. Reconnaissance   →  Gather information about the target
- 2. Enumeration      →  Identify services, versions and entry points
- 3. Exploitation     →  Safely validate vulnerabilities in scope
- 4. Post-Exploitation →  Assess impact and privilege escalation paths
- 5. Reporting        →  Findings, risk rating and remediation advice
-```
+`Port Scanning` `Service Enumeration` `Directory Brute-Forcing`
+
+### 🌐 Networking
+
+`TCP/IP` `DNS` `HTTP/HTTPS` `Common Ports & Protocols`
+
+### 🖥️ Operating Systems
+
+`Kali Linux` `Linux` `Windows` `Privilege Escalation Basics`
+
+### 💻 Languages
+
+`C#` `C++` `SQL`
+
+### 🧰 Platforms
+
+`TryHackMe` `Git` `GitHub`
 
 ---
 
 ## 🎓 Training & Certifications
 
-| Program | Provider | Status |
-|---|---|---|
-| Jr Penetration Tester Path (PT1 preparation) | TryHackMe | 🟡 In progress (42%) |
-| Web Application Pentesting Path (WEB1 preparation) | TryHackMe | 🟡 In progress (7%) |
-| Digital Egypt Pioneers Initiative (DEPI) | Ministry of Communications and Information Technology | 🟢 Trainee |
+* 🔴 **TryHackMe — Jr Penetration Tester Path** (preparing for PT1) — In progress
+* 🌐 **TryHackMe — Web Application Pentesting Path** (preparing for WEB1) — In progress
+* 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)** — Trainee
 
 ---
 
-## 🗺️ Roadmap
+## 📌 Projects
 
-- [ ] Complete the **Jr Penetration Tester** path and earn **PT1**
-- [ ] Complete the **Web Application Pentesting** path and earn **WEB1**
-- [ ] Publish write-ups for lab machines and CTF challenges
-- [ ] Gain hands-on experience through an internship or junior role
+<!-- Add new projects here as you build more — just copy this block -->
+
+### 🧪 TryHackMe Labs
+Hands-on practice in a safe lab environment: network scanning and enumeration with Nmap, and testing web applications for common vulnerabilities with Burp Suite.
+
+<!-- ### 🆕 Next Project Name
+Short 1-line description.
+🔗 [Write-up](#) -->
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abanoubebid&theme=tokyonight" />
+</p>
 
 ---
 
@@ -79,13 +82,16 @@ I'm looking for a **junior penetration testing or application security role** wh
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abanoub-ebid-b2a04b230/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
   </a>
+
   <a href="mailto:abanoubebid1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-<p align="center"><i>"Discipline builds what motivation can't."</i></p>
+## 💡 Mindset
+
+> "Discipline builds what motivation can't."
