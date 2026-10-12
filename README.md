@@ -1,87 +1,91 @@
-# Hi 👋 I'm Abanoub Ebid
+<h1 align="center">Abanoub Ebid</h1>
+<h3 align="center">🛡️ Junior Penetration Tester | Web Application Security</h3>
 
-<div align="center">
+<p align="center">
+  Third-year student at EELU · DEPI trainee · Egypt 🇪🇬
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Cybersecurity+Student+%F0%9F%8E%93;CTF+Player+%F0%9F%9A%A9;Pentesting+Enthusiast+%F0%9F%94%93;Future+Red+Teamer+%F0%9F%9B%A1%EF%B8%8F)
-
-</div>
-
----
-
-## 🧑‍💻 whoami
-
-```bash
-$ whoami
-→ Cybersecurity Student with a Programming Background
-→ Know C++, C#, Python, SQL, HTML, CSS, JavaScript
-→ Understand OOP & Data Structures (C++ / C#)
-→ Learning Web Application Attacks — currently: XSS
-→ Solving rooms on TryHackMe
-→ Using Kali Linux for hands-on practice
-→ Goal: Penetration Tester / Web Security Specialist
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Web%20Application%20Pentesting-0e75b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Training-TryHackMe-212c42?style=flat-square&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square" />
+</p>
 
 ---
 
-## 🎯 Current Focus
+## 👤 About Me
 
-```python
-current_focus = [
-    "XSS & Web Application Attacks",
-    "TryHackMe rooms & challenges",
-    "Kali Linux tools & workflow",
-    "Building security scripts with Python",
-]
-```
+I'm a cybersecurity student training to become a **Junior Penetration Tester**. I practice finding and safely exploiting vulnerabilities in lab environments, then documenting each finding with its impact and a clear fix.
+
+I'm looking for a **junior penetration testing or application security role** where I can learn from experienced teams and contribute from day one.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🎯 Focus Areas
 
-| Category | Details |
+| Area | What I Practice |
 |---|---|
-| 💻 Languages | C++, C#, Python, SQL |
-| 🌐 Frontend | HTML, CSS, JavaScript |
-| 🧩 CS Fundamentals | OOP, Data Structures |
-| 🖥️ OS | Linux, Kali Linux |
-| 🔐 Web Security | XSS, Web Application Security |
-| 🧪 Practice Platform | TryHackMe |
+| 🌐 **Web Application Security** | OWASP Top 10, SQL Injection, XSS, IDOR, Broken Authentication, Broken Access Control |
+| 🔎 **Reconnaissance & Enumeration** | Port scanning, service enumeration, directory brute-forcing |
+| 🖥️ **Network Fundamentals** | TCP/IP, DNS, HTTP/HTTPS, common ports and protocols |
+| ⬆️ **Privilege Escalation** | Linux and Windows fundamentals |
+| 📝 **Reporting** | Documenting findings with severity, impact and remediation steps |
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Toolkit
 
-<div align="center">
+**Offensive & Analysis:** `Burp Suite` `Nmap` `Metasploit` `Gobuster` `ffuf` `Hydra` `Wireshark`
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abanoubebid1&theme=github_dark)
+**Platforms & OS:** `Kali Linux` `Linux` `Windows` `TryHackMe`
 
-![Streak](https://streak-stats.demolab.com?user=abanoubebid1&theme=github-dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
-
-</div>
+**Programming & Scripting:** `C#` `C++` `SQL`
 
 ---
 
-## 🏆 Platforms
+## 🔬 Methodology
 
-- 🟥 TryHackMe — [My Profile](https://tryhackme.com/p/bib0?tab=completed-rooms)
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-abanoubebid1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abanoubebid1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abanoub%20Ebid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abanoub-ebid-b2a04b230/)
-
-</div>
+```text
+ 1. Reconnaissance   →  Gather information about the target
+ 2. Enumeration      →  Identify services, versions and entry points
+ 3. Exploitation     →  Safely validate vulnerabilities in scope
+ 4. Post-Exploitation →  Assess impact and privilege escalation paths
+ 5. Reporting        →  Findings, risk rating and remediation advice
+```
 
 ---
 
-<div align="center">
+## 🎓 Training & Certifications
 
-![Visitor Count](https://komarev.com/ghpvc/?username=abanoubebid1&color=00ff41&style=flat-square)
+| Program | Provider | Status |
+|---|---|---|
+| Jr Penetration Tester Path (PT1 preparation) | TryHackMe | 🟡 In progress (42%) |
+| Web Application Pentesting Path (WEB1 preparation) | TryHackMe | 🟡 In progress (7%) |
+| Digital Egypt Pioneers Initiative (DEPI) | Ministry of Communications and Information Technology | 🟢 Trainee |
 
-*"The quieter you become, the more you are able to hear."* 🎩
+---
 
-</div>
+## 🗺️ Roadmap
+
+- [ ] Complete the **Jr Penetration Tester** path and earn **PT1**
+- [ ] Complete the **Web Application Pentesting** path and earn **WEB1**
+- [ ] Publish write-ups for lab machines and CTF challenges
+- [ ] Gain hands-on experience through an internship or junior role
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abanoub-ebid-b2a04b230/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:abanoubebid1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><i>"Discipline builds what motivation can't."</i></p>
