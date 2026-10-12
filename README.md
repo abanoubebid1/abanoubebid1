@@ -82,7 +82,7 @@ Short 1-line description.
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="mailto:abanoubebid1@gmail.com">
+  <a href="mailto:abanoubebid4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
