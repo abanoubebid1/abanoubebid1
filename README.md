@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abanoub Ebid</h1>
-<h3 align="center">🛡️ Junior Penetration Tester | Web Application Security | Finding Vulnerabilities Before Attackers Do</h3>
+<h3 align="center">🛡️ Junior Penetration Tester </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abanoubebid&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 ## 🧑‍💻 About Me
@@ -41,7 +38,7 @@
 
 ### 💻 Languages
 
-`C#` `C++` `SQL`
+`C#` `C++` `SQL` `python`
 
 ### 🧰 Platforms
 
